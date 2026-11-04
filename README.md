@@ -1,5 +1,11 @@
-# Hi there 👋
+<div align="center">
 
-## 📊 My GitHub Contributions
+## 📊 My GitHub Contribution Skyline
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img
+  src="./generated/contribution-skyline.gif"
+  width="100%"
+  alt="3D GitHub Contribution Skyline"
+/>
+
+</div>
